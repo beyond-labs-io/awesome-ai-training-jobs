@@ -44,61 +44,61 @@ Compare two platforms side by side: [AI Work Expert comparisons](https://www.aiw
 ## Latest open roles
 
 <!-- JOBS:START -->
-**775 open remote roles** across 3 platforms: Mercor (285), Turing (270), micro1 (220).
-The newest 50 are below. Updated 31 Oct 2026.
+**992 open remote roles** across 3 platforms: micro1 (368), Mercor (354), Turing (270).
+The newest 50 are below. Updated 01 Nov 2026.
 
 | Role | Platform | Pay | Posted |
 |---|---|---|---|
-| [Domain Expert: Chemistry](https://www.aiworkexpert.com/jobs/turing-domain-expert-chemistry) | Turing | Not stated | 13 Oct 2026 |
-| [Medical Expert – Dermatology](https://www.aiworkexpert.com/jobs/turing-medical-expert-dermatology) | Turing | Not stated | 13 Oct 2026 |
-| [Senior Power Electronics / Automotive Hardware Design Engineer](https://www.aiworkexpert.com/jobs/turing-senior-power-electronics-automotive-hardware-design-engineer) | Turing | Not stated | 13 Oct 2026 |
-| [Senior General Hardware Design Engineer – Analog, Mixed-Signal and RF](https://www.aiworkexpert.com/jobs/turing-senior-general-hardware-design-engineer-analog-mixed-signal-and-rf) | Turing | Not stated | 13 Oct 2026 |
-| [Senior Digital / High-Speed Hardware Design Engineer](https://www.aiworkexpert.com/jobs/turing-senior-digital-high-speed-hardware-design-engineer) | Turing | Not stated | 13 Oct 2026 |
-| [Pod lead - Electrical Engineering & Computer Science (Terminal Bench Science)](https://www.aiworkexpert.com/jobs/turing-pod-lead-electrical-engineering-and-computer-science-terminal-bench-sc) | Turing | Not stated | 13 Oct 2026 |
-| [Audio Engineer (Speech / TTS Audio Specialist) – Brazilian Portuguese](https://www.aiworkexpert.com/jobs/mercor-audio-engineer-speech-tts-audio-specialist-brazilian-portuguese) | Mercor | $20-$30/h | 13 Oct 2026 |
-| [Research Scientist - Computer Science & Computational Physics](https://www.aiworkexpert.com/jobs/micro1-research-scientist-computer-science-and-computational-physics) | micro1 | $100-$400/h | 13 Oct 2026 |
-| [Principal Research Scientist (Computer Science / Computational Physics)](https://www.aiworkexpert.com/jobs/micro1-principal-research-scientist-computer-science-computational-physics) | micro1 | $100-$400/h | 13 Oct 2026 |
-| [Recruiter (San Francisco based)](https://www.aiworkexpert.com/jobs/micro1-recruiter-san-francisco-based) | micro1 | $50/h | 13 Oct 2026 |
-| [Privacy Analyst](https://www.aiworkexpert.com/jobs/micro1-privacy-analyst) | micro1 | $31-$60/h | 13 Oct 2026 |
-| [Data Partnerships Manager](https://www.aiworkexpert.com/jobs/micro1-data-partnerships-manager) | micro1 | $160K-$250K/yr | 13 Oct 2026 |
-| [Supply Coordinator](https://www.aiworkexpert.com/jobs/turing-supply-coordinator) | Turing | Not stated | 12 Oct 2026 |
-| [Senior Quality Lead](https://www.aiworkexpert.com/jobs/turing-senior-quality-lead) | Turing | Not stated | 12 Oct 2026 |
-| [Quality Operations Lead](https://www.aiworkexpert.com/jobs/turing-quality-operations-lead) | Turing | Not stated | 12 Oct 2026 |
-| [Quality Manager](https://www.aiworkexpert.com/jobs/turing-quality-manager) | Turing | Not stated | 12 Oct 2026 |
-| [Quality Analyst - Non - US](https://www.aiworkexpert.com/jobs/turing-quality-analyst-non-us) | Turing | Not stated | 12 Oct 2026 |
-| [Quality Analyst (Non - US )](https://www.aiworkexpert.com/jobs/turing-quality-analyst-non-us-lkcrfcekae5l) | Turing | Not stated | 12 Oct 2026 |
-| [Domain Expert: Biology](https://www.aiworkexpert.com/jobs/turing-domain-expert-biology) | Turing | Not stated | 12 Oct 2026 |
-| [Domain Expert – Python](https://www.aiworkexpert.com/jobs/turing-domain-expert-python) | Turing | Not stated | 12 Oct 2026 |
-| [Business Analyst : Non US](https://www.aiworkexpert.com/jobs/turing-business-analyst-non-us) | Turing | Not stated | 12 Oct 2026 |
-| [LLM Annotator - Master's Degree](https://www.aiworkexpert.com/jobs/turing-llm-annotator-master-s-degree) | Turing | Not stated | 12 Oct 2026 |
-| [Business Analyst - US](https://www.aiworkexpert.com/jobs/turing-business-analyst-us) | Turing | Not stated | 12 Oct 2026 |
-| [Business Analyst (Computer Use Agent) - II](https://www.aiworkexpert.com/jobs/turing-business-analyst-computer-use-agent-ii) | Turing | Not stated | 12 Oct 2026 |
-| [Business Analyst (Computer Use Agent)](https://www.aiworkexpert.com/jobs/turing-business-analyst-computer-use-agent) | Turing | Not stated | 12 Oct 2026 |
-| [Domain Expert: Biology](https://www.aiworkexpert.com/jobs/turing-domain-expert-biology-lhxrnngiithw) | Turing | Not stated | 12 Oct 2026 |
-| [BioInformatics Experts](https://www.aiworkexpert.com/jobs/mercor-bioinformatics-experts) | Mercor | $90-$110/h | 12 Oct 2026 |
-| [Enterprise Client Partner, U.S. Government](https://www.aiworkexpert.com/jobs/micro1-enterprise-client-partner-u-s-government) | micro1 | $220K-$400K/yr | 12 Oct 2026 |
-| [Competitive Data Scientist](https://www.aiworkexpert.com/jobs/micro1-competitive-data-scientist) | micro1 | $60-$120/h | 12 Oct 2026 |
-| [Postal Clerk](https://www.aiworkexpert.com/jobs/micro1-postal-clerk) | micro1 | $30-$45/h | 12 Oct 2026 |
-| [Usability Tester](https://www.aiworkexpert.com/jobs/micro1-usability-tester) | micro1 | $20-$30/h | 12 Oct 2026 |
-| [Spanish-Language Consumer Reviewer](https://www.aiworkexpert.com/jobs/micro1-spanish-language-consumer-reviewer) | micro1 | $20-$30/h | 12 Oct 2026 |
-| [Consumer Reviewer](https://www.aiworkexpert.com/jobs/micro1-consumer-reviewer) | micro1 | $20-$30/h | 12 Oct 2026 |
-| [211 Specialist](https://www.aiworkexpert.com/jobs/micro1-211-specialist) | micro1 | $30-$40/h | 12 Oct 2026 |
-| [Bilingual (Spanish) Benefits Counselor](https://www.aiworkexpert.com/jobs/micro1-bilingual-spanish-benefits-counselor) | micro1 | $35-$50/h | 12 Oct 2026 |
-| [National Park Ranger](https://www.aiworkexpert.com/jobs/micro1-national-park-ranger) | micro1 | $30-$45/h | 12 Oct 2026 |
-| [Financial Aid Advisor](https://www.aiworkexpert.com/jobs/micro1-financial-aid-advisor) | micro1 | $30-$50/h | 12 Oct 2026 |
-| [VA Eligibility Specialist](https://www.aiworkexpert.com/jobs/micro1-va-eligibility-specialist) | micro1 | $30-$50/h | 12 Oct 2026 |
-| [Veterans Service Officer](https://www.aiworkexpert.com/jobs/micro1-veterans-service-officer) | micro1 | $40-$60/h | 12 Oct 2026 |
-| [Consular Officer / Passport Specialist](https://www.aiworkexpert.com/jobs/micro1-consular-officer-passport-specialist) | micro1 | $50-$70/h | 12 Oct 2026 |
-| [Passport Acceptance Agent](https://www.aiworkexpert.com/jobs/micro1-passport-acceptance-agent) | micro1 | $30-$40/h | 12 Oct 2026 |
-| [Medicare Enrollment Specialist](https://www.aiworkexpert.com/jobs/micro1-medicare-enrollment-specialist) | micro1 | $40-$60/h | 12 Oct 2026 |
-| [SHIP Medicare Counselor](https://www.aiworkexpert.com/jobs/micro1-ship-medicare-counselor) | micro1 | $30-$60/h | 12 Oct 2026 |
-| [Junior Data Scientist](https://www.aiworkexpert.com/jobs/micro1-junior-data-scientist) | micro1 | $150-$200/h | 12 Oct 2026 |
-| [Junior Software Engineer](https://www.aiworkexpert.com/jobs/micro1-junior-software-engineer) | micro1 | $150-$200/h | 12 Oct 2026 |
-| [Physician AI Trainer – Hospital Medicine](https://www.aiworkexpert.com/jobs/micro1-physician-ai-trainer-hospital-medicine) | micro1 | $80-$125/h | 12 Oct 2026 |
-| [Locum Tenens Hospitalist](https://www.aiworkexpert.com/jobs/micro1-locum-tenens-hospitalist) | micro1 | $80-$125/h | 12 Oct 2026 |
-| [Medical Specialist](https://www.aiworkexpert.com/jobs/micro1-medical-specialist-dc6478b1) | micro1 | $80-$125/h | 12 Oct 2026 |
-| [Data Privacy Analyst](https://www.aiworkexpert.com/jobs/micro1-data-privacy-analyst) | micro1 | $31-$60/h | 12 Oct 2026 |
-| [Atomistic Materials Modeling Expert](https://www.aiworkexpert.com/jobs/mercor-atomistic-materials-modeling-expert) | Mercor | $84/h | 11 Oct 2026 |
+| [Luxury Automotive Strategy Expert](https://www.aiworkexpert.com/jobs/mercor-luxury-automotive-strategy-expert) | Mercor | $300-$350/h | 28 Oct 2026 |
+| [Orthodontist](https://www.aiworkexpert.com/jobs/mercor-orthodontist) | Mercor | $150/h | 28 Oct 2026 |
+| [Breast Imaging Radiologist](https://www.aiworkexpert.com/jobs/mercor-breast-imaging-radiologist) | Mercor | $300/h | 28 Oct 2026 |
+| [Senior Intelligence Analyst – National Security](https://www.aiworkexpert.com/jobs/micro1-senior-intelligence-analyst-national-security) | micro1 | $50-$100/h | 28 Oct 2026 |
+| [Intelligence Operations & Collection Expert](https://www.aiworkexpert.com/jobs/micro1-intelligence-operations-collection-expert) | micro1 | $50-$1000/h | 28 Oct 2026 |
+| [Intelligence Agency Officer](https://www.aiworkexpert.com/jobs/micro1-intelligence-agency-officer) | micro1 | $50-$100/h | 28 Oct 2026 |
+| [Energy Regulatory Counsel](https://www.aiworkexpert.com/jobs/micro1-energy-regulatory-counsel) | micro1 | $140-$400/h | 28 Oct 2026 |
+| [Gaming/Gambling Regulatory Attorney](https://www.aiworkexpert.com/jobs/micro1-gaminggambling-regulatory-attorney) | micro1 | $140-$400/h | 28 Oct 2026 |
+| [Consumer Product Safety Attorney](https://www.aiworkexpert.com/jobs/micro1-consumer-product-safety-attorney) | micro1 | $140-$400/h | 28 Oct 2026 |
+| [Senior Photographer](https://www.aiworkexpert.com/jobs/micro1-senior-photographer) | micro1 | $55-$105/h | 28 Oct 2026 |
+| [Senior Flight Operations Expert](https://www.aiworkexpert.com/jobs/micro1-senior-flight-operations-expert) | micro1 | $20-$60/h | 28 Oct 2026 |
+| [Senior Technical Documentation, Parts and Annotation Specialist](https://www.aiworkexpert.com/jobs/micro1-senior-technical-documentation-parts-and-annotation-specialist) | micro1 | $20-$60/h | 28 Oct 2026 |
+| [Nuclear & Radiological Security Expert](https://www.aiworkexpert.com/jobs/micro1-nuclear-radiological-security-expert-2) | micro1 | $50-$90/h | 28 Oct 2026 |
+| [Senior Industrial Trades and Maintenance Expert](https://www.aiworkexpert.com/jobs/micro1-senior-industrial-trades-and-maintenance-expert) | micro1 | $20-$60/h | 28 Oct 2026 |
+| [AI Jailbreak & Prompt-Injection Security Expert](https://www.aiworkexpert.com/jobs/micro1-ai-jailbreak-prompt-injection-security-expert-2) | micro1 | $50-$90/h | 28 Oct 2026 |
+| [Military Operations & IHL Expert](https://www.aiworkexpert.com/jobs/micro1-military-operations-ihl-expert-2) | micro1 | $50-$90/h | 28 Oct 2026 |
+| [Senior Advanced NDT and Imaging Specialist](https://www.aiworkexpert.com/jobs/micro1-senior-advanced-ndt-and-imaging-specialist) | micro1 | $20-$60/h | 28 Oct 2026 |
+| [Senior Cargo Condition and Securing Surveyor](https://www.aiworkexpert.com/jobs/micro1-senior-cargo-condition-and-securing-surveyor) | micro1 | $20-$60/h | 28 Oct 2026 |
+| [Senior Specialty Inspection Expert, Crop, Auction and Rental](https://www.aiworkexpert.com/jobs/micro1-senior-specialty-inspection-expert-crop-auction-and-rental) | micro1 | $20-$60/h | 28 Oct 2026 |
+| [Senior Claims Investigation and Evidence Review Expert](https://www.aiworkexpert.com/jobs/micro1-senior-claims-investigation-and-evidence-review-expert) | micro1 | $20-$60/h | 28 Oct 2026 |
+| [Senior Property Damage and Restoration Expert](https://www.aiworkexpert.com/jobs/micro1-senior-property-damage-and-restoration-expert) | micro1 | $20-$60/h | 28 Oct 2026 |
+| [Military Operations & Reporting SME](https://www.aiworkexpert.com/jobs/micro1-military-operations-reporting-sme) | micro1 | $40-$80/h | 28 Oct 2026 |
+| [Senior DoD Staff Writing SME](https://www.aiworkexpert.com/jobs/micro1-senior-dod-staff-writing-sme-2) | micro1 | $40-$80/h | 28 Oct 2026 |
+| [Federal Staff Reporting Analyst](https://www.aiworkexpert.com/jobs/micro1-federal-staff-reporting-analyst-2) | micro1 | $40-$80/h | 28 Oct 2026 |
+| [Military Writing Specialist](https://www.aiworkexpert.com/jobs/micro1-military-writing-specialist-2) | micro1 | $40-$80/h | 28 Oct 2026 |
+| [Naval Subject Matter Expert (Cleared)](https://www.aiworkexpert.com/jobs/micro1-naval-subject-matter-expert-cleared) | micro1 | $50-$100/h | 28 Oct 2026 |
+| [Senior Vehicle Damage and Condition Expert](https://www.aiworkexpert.com/jobs/micro1-senior-vehicle-damage-and-condition-expert) | micro1 | $20-$60/h | 28 Oct 2026 |
+| [Legal Specialist (Microsoft Office User)](https://www.aiworkexpert.com/jobs/micro1-legal-specialist-microsoft-office-user) | micro1 | $25-$40/h | 28 Oct 2026 |
+| [Marketing Specialist (Microsoft Office User)](https://www.aiworkexpert.com/jobs/micro1-marketing-specialist-microsoft-office-user) | micro1 | $25-$40/h | 28 Oct 2026 |
+| [Tamil Bilingual Expert](https://www.aiworkexpert.com/jobs/micro1-tamil-bilingual-expert) | micro1 | $30-$65/h | 28 Oct 2026 |
+| [Management Consulting Expert](https://www.aiworkexpert.com/jobs/micro1-management-consulting-expert) | micro1 | $60-$120/h | 28 Oct 2026 |
+| [Financial Due Diligence & Transaction Accounting](https://www.aiworkexpert.com/jobs/micro1-financial-due-diligence-transaction-accounting) | micro1 | $60-$120/h | 28 Oct 2026 |
+| [Investment Banking & M&A Expert](https://www.aiworkexpert.com/jobs/micro1-investment-banking-ma-expert) | micro1 | $60-$120/h | 28 Oct 2026 |
+| [Corporate Finance & Financial Modeling Expert](https://www.aiworkexpert.com/jobs/micro1-corporate-finance-financial-modeling-expert) | micro1 | $60-$120/h | 28 Oct 2026 |
+| [Senior Data Scientist and Data Engineering Experts](https://www.aiworkexpert.com/jobs/mercor-senior-data-scientist-and-data-engineering-experts) | Mercor | $120-$180/h | 27 Oct 2026 |
+| [Smartwatch User](https://www.aiworkexpert.com/jobs/micro1-smartwatch-user) | micro1 | $70/h | 27 Oct 2026 |
+| [Wearable Electronic User](https://www.aiworkexpert.com/jobs/micro1-wearable-electronic-user) | micro1 | $70/h | 27 Oct 2026 |
+| [Air Traffic Controller](https://www.aiworkexpert.com/jobs/micro1-air-traffic-controller) | micro1 | $30-$50/h | 27 Oct 2026 |
+| [Aircraft Pilot](https://www.aiworkexpert.com/jobs/micro1-aircraft-pilot) | micro1 | $30-$50/h | 27 Oct 2026 |
+| [Paralegal](https://www.aiworkexpert.com/jobs/micro1-paralegal) | micro1 | $40-$80/h | 27 Oct 2026 |
+| [Certified Inpatient Medical Coder](https://www.aiworkexpert.com/jobs/micro1-certified-inpatient-medical-coder) | micro1 | $50-$70/h | 27 Oct 2026 |
+| [Registered Nurse](https://www.aiworkexpert.com/jobs/micro1-registered-nurse-2) | micro1 | $60-$70/h | 27 Oct 2026 |
+| [Consulting Specialist](https://www.aiworkexpert.com/jobs/micro1-consulting-specialist-2) | micro1 | $150-$350/h | 27 Oct 2026 |
+| [Finance Specialist](https://www.aiworkexpert.com/jobs/micro1-finance-specialist-2) | micro1 | $150-$350/h | 27 Oct 2026 |
+| [Member of Technical Staff, Model Training (infra & platform)](https://www.aiworkexpert.com/jobs/micro1-member-of-technical-staff-model-training-infra-platform) | micro1 | $600K-$1.8M/yr | 27 Oct 2026 |
+| [Member of Technical Staff, Model Training (applied research)](https://www.aiworkexpert.com/jobs/micro1-member-of-technical-staff-model-training-applied-research) | micro1 | $600K-$1.8M/yr | 27 Oct 2026 |
+| [Member of Technical Staff, Model Training (post-training research)](https://www.aiworkexpert.com/jobs/micro1-member-of-technical-staff-model-training-post-training-research) | micro1 | $600K-$1.8M/yr | 27 Oct 2026 |
+| [Hindi Linguistic Experts](https://www.aiworkexpert.com/jobs/mercor-hindi-linguistic-experts) | Mercor | $30/h | 26 Oct 2026 |
+| [Arabic Linguistic Experts](https://www.aiworkexpert.com/jobs/mercor-arabic-linguistic-experts) | Mercor | $50/h | 26 Oct 2026 |
+| [Portuguese Linguistic Experts](https://www.aiworkexpert.com/jobs/mercor-portuguese-linguistic-experts) | Mercor | $50/h | 26 Oct 2026 |
 <!-- JOBS:END -->
 
 Browse every open role with filters: [aiworkexpert.com/jobs](https://www.aiworkexpert.com/jobs).
