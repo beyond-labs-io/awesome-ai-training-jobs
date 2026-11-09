@@ -44,8 +44,8 @@ Compare two platforms side by side: [AI Work Expert comparisons](https://www.aiw
 ## Latest open roles
 
 <!-- JOBS:START -->
-**855 open remote roles** across 3 platforms: micro1 (333), Mercor (293), Turing (229).
-The newest 50 are below. Updated 08 Nov 2026.
+**851 open remote roles** across 3 platforms: micro1 (329), Mercor (293), Turing (229).
+The newest 50 are below. Updated 09 Nov 2026.
 
 | Role | Platform | Pay | Posted |
 |---|---|---|---|
