@@ -44,61 +44,61 @@ Compare two platforms side by side: [AI Work Expert comparisons](https://www.aiw
 ## Latest open roles
 
 <!-- JOBS:START -->
-**851 open remote roles** across 3 platforms: micro1 (329), Mercor (293), Turing (229).
-The newest 50 are below. Updated 09 Nov 2026.
+**1026 open remote roles** across 3 platforms: micro1 (452), Mercor (338), Turing (236).
+The newest 50 are below. Updated 10 Nov 2026.
 
 | Role | Platform | Pay | Posted |
 |---|---|---|---|
-| [Project Lead - AI Training](https://www.aiworkexpert.com/jobs/turing-project-lead-ai-training) | Turing | Not stated | 01 Nov 2026 |
-| [Senior Software Engineer - AI Evaluation / Coding Agents ($100-150/hr)](https://www.aiworkexpert.com/jobs/turing-senior-software-engineer-ai-evaluation-coding-agents-100-150hr) | Turing | Not stated | 01 Nov 2026 |
-| [Personal Account Generalist Raters (Android Smartphone Users)](https://www.aiworkexpert.com/jobs/turing-personal-account-generalist-raters-android-smartphone-users) | Turing | Not stated | 01 Nov 2026 |
-| [AI Benchmark & Red-Teaming Specialist](https://www.aiworkexpert.com/jobs/turing-ai-benchmark-red-teaming-specialist) | Turing | Not stated | 01 Nov 2026 |
-| [Digital Imaging Specialist/ Digital Artist](https://www.aiworkexpert.com/jobs/turing-digital-imaging-specialist-digital-artist) | Turing | Not stated | 01 Nov 2026 |
-| [Tooling Engineer](https://www.aiworkexpert.com/jobs/turing-tooling-engineer) | Turing | Not stated | 01 Nov 2026 |
-| [Audio/Voice/Annotation Trainer - Russian Language](https://www.aiworkexpert.com/jobs/turing-audiovoiceannotation-trainer-russian-language) | Turing | Not stated | 01 Nov 2026 |
-| [Audio/Voice/Annotation Trainer - German Language](https://www.aiworkexpert.com/jobs/turing-audiovoiceannotation-trainer-german-language) | Turing | Not stated | 01 Nov 2026 |
-| [Audio/Voice/Annotation Trainer - Italian Language](https://www.aiworkexpert.com/jobs/turing-audiovoiceannotation-trainer-italian-language) | Turing | Not stated | 01 Nov 2026 |
-| [AI Trainer - Data Annotation Specialist (Safety)](https://www.aiworkexpert.com/jobs/turing-ai-trainer-data-annotation-specialist-safety) | Turing | Not stated | 01 Nov 2026 |
-| [Image Annotation QA](https://www.aiworkexpert.com/jobs/turing-image-annotation-qa) | Turing | Not stated | 01 Nov 2026 |
-| [Clinical & Health Specialist](https://www.aiworkexpert.com/jobs/turing-clinical-health-specialist) | Turing | Not stated | 01 Nov 2026 |
-| [Music Professionals](https://www.aiworkexpert.com/jobs/turing-music-professionals) | Turing | Not stated | 01 Nov 2026 |
-| [Political Scientists / Policy Analysts — Senior Expert](https://www.aiworkexpert.com/jobs/turing-political-scientists-policy-analysts-senior-expert) | Turing | Not stated | 01 Nov 2026 |
-| [Marketing, Media & Content Specialist](https://www.aiworkexpert.com/jobs/turing-marketing-media-content-specialist) | Turing | Not stated | 01 Nov 2026 |
-| [Hardware Design Engineer – KiCad, PCB Design and Verification Expert](https://www.aiworkexpert.com/jobs/turing-hardware-design-engineer-kicad-pcb-design-and-verification-expert) | Turing | Not stated | 01 Nov 2026 |
-| [Senior Accountants & Auditors (APAC/MEA & NA)](https://www.aiworkexpert.com/jobs/turing-senior-accountants-auditors-apacmea-na) | Turing | Not stated | 01 Nov 2026 |
-| [AI Safety Annotation Reviewer](https://www.aiworkexpert.com/jobs/turing-ai-safety-annotation-reviewer) | Turing | Not stated | 01 Nov 2026 |
-| [Merchandising / Category Managers Specialist](https://www.aiworkexpert.com/jobs/turing-merchandising-category-managers-specialist) | Turing | Not stated | 01 Nov 2026 |
-| [Commercial / Go-to-Market Specialist](https://www.aiworkexpert.com/jobs/turing-commercial-go-to-market-specialist) | Turing | Not stated | 01 Nov 2026 |
-| [Tooling Engineer](https://www.aiworkexpert.com/jobs/turing-tooling-engineer-2) | Turing | Not stated | 01 Nov 2026 |
-| [Domain Expert: Earth Science](https://www.aiworkexpert.com/jobs/turing-domain-expert-earth-science) | Turing | Not stated | 01 Nov 2026 |
-| [Audio Video Annotator](https://www.aiworkexpert.com/jobs/turing-audio-video-annotator) | Turing | Not stated | 01 Nov 2026 |
-| [Retail / Consumer Banking Expert](https://www.aiworkexpert.com/jobs/turing-retail-consumer-banking-expert) | Turing | Not stated | 01 Nov 2026 |
-| [Personal / Consumer Lending Expert](https://www.aiworkexpert.com/jobs/turing-personal-consumer-lending-expert) | Turing | Not stated | 01 Nov 2026 |
-| [Mortgage & Home Lending Expert](https://www.aiworkexpert.com/jobs/turing-mortgage-home-lending-expert) | Turing | Not stated | 01 Nov 2026 |
-| [Corporate Banking Expert](https://www.aiworkexpert.com/jobs/turing-corporate-banking-expert) | Turing | Not stated | 01 Nov 2026 |
-| [Commercial Banking Expert](https://www.aiworkexpert.com/jobs/turing-commercial-banking-expert) | Turing | Not stated | 01 Nov 2026 |
-| [Context Elicitation & Conversation Evaluation Specialists](https://www.aiworkexpert.com/jobs/turing-context-elicitation-conversation-evaluation-specialists) | Turing | Not stated | 01 Nov 2026 |
-| [Computational Protein Design Expert](https://www.aiworkexpert.com/jobs/turing-computational-protein-design-expert) | Turing | Not stated | 01 Nov 2026 |
-| [Senior DevOps Engineer (Cloud Infrastructure, CI/CD, LLMOps)](https://www.aiworkexpert.com/jobs/turing-senior-devops-engineer-cloud-infrastructure-cicd-llmops) | Turing | Not stated | 01 Nov 2026 |
-| [Video Annotator](https://www.aiworkexpert.com/jobs/turing-video-annotator) | Turing | Not stated | 01 Nov 2026 |
-| [Academic - Subject Matter Expert](https://www.aiworkexpert.com/jobs/turing-academic-subject-matter-expert) | Turing | Not stated | 01 Nov 2026 |
-| [SWE Bench Engineer - Rust](https://www.aiworkexpert.com/jobs/turing-swe-bench-engineer-rust) | Turing | Not stated | 01 Nov 2026 |
-| [SWE Bench Engineer - Golang](https://www.aiworkexpert.com/jobs/turing-swe-bench-engineer-golang) | Turing | Not stated | 01 Nov 2026 |
-| [Gemini App Experts (Education Domain)](https://www.aiworkexpert.com/jobs/turing-gemini-app-experts-education-domain) | Turing | Not stated | 01 Nov 2026 |
-| [ML/AI Systems Engineer](https://www.aiworkexpert.com/jobs/turing-mlai-systems-engineer) | Turing | Not stated | 01 Nov 2026 |
-| [AI Trainer - Data Annotation Specialist (Safety)](https://www.aiworkexpert.com/jobs/turing-ai-trainer-data-annotation-specialist-safety-2) | Turing | Not stated | 01 Nov 2026 |
-| [Quality Analyst-Multimodality](https://www.aiworkexpert.com/jobs/turing-quality-analyst-multimodality) | Turing | Not stated | 01 Nov 2026 |
-| [Pod Lead — Physics(Terminal Bench Science)](https://www.aiworkexpert.com/jobs/turing-pod-lead-physicsterminal-bench-science) | Turing | Not stated | 01 Nov 2026 |
-| [Pod Lead — Chemistry(Terminal Bench Science)](https://www.aiworkexpert.com/jobs/turing-pod-lead-chemistryterminal-bench-science) | Turing | Not stated | 01 Nov 2026 |
-| [Pod Lead — Material Sciences (Terminal Bench Science)](https://www.aiworkexpert.com/jobs/turing-pod-lead-material-sciences-terminal-bench-science) | Turing | Not stated | 01 Nov 2026 |
-| [Pod lead - Math (Terminal Bench Science)](https://www.aiworkexpert.com/jobs/turing-pod-lead-math-terminal-bench-science) | Turing | Not stated | 01 Nov 2026 |
-| [Image Annotation QA](https://www.aiworkexpert.com/jobs/turing-image-annotation-qa-2) | Turing | Not stated | 01 Nov 2026 |
-| [Quality Analyst - US](https://www.aiworkexpert.com/jobs/turing-quality-analyst-us) | Turing | Not stated | 01 Nov 2026 |
-| [Quality Analyst-Multimodality](https://www.aiworkexpert.com/jobs/turing-quality-analyst-multimodality-2) | Turing | Not stated | 01 Nov 2026 |
-| [Life Sciences Subject Matter Expert](https://www.aiworkexpert.com/jobs/turing-life-sciences-subject-matter-expert) | Turing | Not stated | 01 Nov 2026 |
-| [Pod Lead — Life Sciences & Medicine (Terminal Bench Science)](https://www.aiworkexpert.com/jobs/turing-pod-lead-life-sciences-medicine-terminal-bench-science) | Turing | Not stated | 01 Nov 2026 |
-| [Audio Video Annotator](https://www.aiworkexpert.com/jobs/turing-audio-video-annotator-2) | Turing | Not stated | 01 Nov 2026 |
-| [Mechanical Design & Analysis Domain Lead (CAD/CAE Expert)](https://www.aiworkexpert.com/jobs/turing-mechanical-design-analysis-domain-lead-cadcae-expert) | Turing | Not stated | 01 Nov 2026 |
+| [Generalist - Korean Speaker](https://www.aiworkexpert.com/jobs/micro1-generalist-korean-speaker) | micro1 | $20-$45/h | 10 Nov 2026 |
+| [Individual Tax Professional (CPA / EA)](https://www.aiworkexpert.com/jobs/mercor-individual-tax-professional-cpa-ea) | Mercor | $110-$130/h | 10 Nov 2026 |
+| [Generalist - Greek Speaker](https://www.aiworkexpert.com/jobs/micro1-generalist-greek-speaker) | micro1 | $20-$45/h | 10 Nov 2026 |
+| [Generalist - Mandarin Speaker](https://www.aiworkexpert.com/jobs/micro1-generalist-mandarin-speaker) | micro1 | $20-$45/h | 10 Nov 2026 |
+| [Health Expert](https://www.aiworkexpert.com/jobs/micro1-health-expert) | micro1 | $20-$45/h | 10 Nov 2026 |
+| [STEM / Quant Bachelor](https://www.aiworkexpert.com/jobs/micro1-stem-quant-bachelor) | micro1 | $20-$45/h | 10 Nov 2026 |
+| [Paralegal (General)](https://www.aiworkexpert.com/jobs/micro1-paralegal-general) | micro1 | $50-$70/h | 10 Nov 2026 |
+| [Legal Expert (Employment & Labor)](https://www.aiworkexpert.com/jobs/micro1-legal-expert-employment-labor) | micro1 | $80-$130/h | 10 Nov 2026 |
+| [Legal Expert (Intellectual Property)](https://www.aiworkexpert.com/jobs/micro1-legal-expert-intellectual-property) | micro1 | $80-$130/h | 10 Nov 2026 |
+| [Legal Expert (Litigation & Disputes)](https://www.aiworkexpert.com/jobs/micro1-legal-expert-litigation-disputes) | micro1 | $80-$130/h | 10 Nov 2026 |
+| [Legal Rubric & Ground Truth Auditor (Licensed Attorney)](https://www.aiworkexpert.com/jobs/mercor-legal-rubric-ground-truth-auditor-licensed-attorney) | Mercor | $120-$140/h | 10 Nov 2026 |
+| [Legal Expert (Corporate & M&A)](https://www.aiworkexpert.com/jobs/micro1-legal-expert-corporate-m-a) | micro1 | $80-$130/h | 10 Nov 2026 |
+| [Music Expert (Music Teacher / Musician)](https://www.aiworkexpert.com/jobs/micro1-music-expert-music-teacher-musician) | micro1 | $20-$45/h | 10 Nov 2026 |
+| [Hematology/Oncology Physician](https://www.aiworkexpert.com/jobs/micro1-hematology-oncology-physician) | micro1 | $100-$180/h | 10 Nov 2026 |
+| [Coding Expert](https://www.aiworkexpert.com/jobs/micro1-coding-expert) | micro1 | $20-$45/h | 10 Nov 2026 |
+| [Professional Writing Human Data Collection](https://www.aiworkexpert.com/jobs/turing-professional-writing-human-data-collection) | Turing | Not stated | 10 Nov 2026 |
+| [AI Video Editor (Premiere Pro & After Effects)](https://www.aiworkexpert.com/jobs/micro1-ai-video-editor-premiere-pro-after-effects) | micro1 | $20-$40/h | 09 Nov 2026 |
+| [Embedded Systems / Kernel Engineer](https://www.aiworkexpert.com/jobs/mercor-embedded-systems-kernel-engineer) | Mercor | $100-$150/h | 09 Nov 2026 |
+| [Business Operations / Knowledge Work Specialist](https://www.aiworkexpert.com/jobs/mercor-business-operations-knowledge-work-specialist) | Mercor | $50-$80/h | 09 Nov 2026 |
+| [Clinical / Health Domain Expert](https://www.aiworkexpert.com/jobs/mercor-clinical-health-domain-expert) | Mercor | $90-$150/h | 09 Nov 2026 |
+| [Scientific / ML Engineer](https://www.aiworkexpert.com/jobs/mercor-scientific-ml-engineer) | Mercor | $90-$140/h | 09 Nov 2026 |
+| [Finance Domain Expert](https://www.aiworkexpert.com/jobs/mercor-finance-domain-expert) | Mercor | $80-$120/h | 09 Nov 2026 |
+| [Mechanical / CAD Engineer](https://www.aiworkexpert.com/jobs/mercor-mechanical-cad-engineer) | Mercor | $60-$100/h | 09 Nov 2026 |
+| [Customer Service / E-commerce Specialist](https://www.aiworkexpert.com/jobs/mercor-customer-service-e-commerce-specialist) | Mercor | $40-$60/h | 09 Nov 2026 |
+| [Formal Mathematics Specialist (Lean / Coq / Isabelle)](https://www.aiworkexpert.com/jobs/mercor-formal-mathematics-specialist-lean-coq-isabelle) | Mercor | $80-$130/h | 09 Nov 2026 |
+| [DevOps / Infrastructure Engineer](https://www.aiworkexpert.com/jobs/mercor-devops-infrastructure-engineer) | Mercor | $80-$120/h | 09 Nov 2026 |
+| [Responsible AI / Security Specialist](https://www.aiworkexpert.com/jobs/mercor-responsible-ai-security-specialist) | Mercor | $90-$140/h | 09 Nov 2026 |
+| [Software Engineer (Foundational)](https://www.aiworkexpert.com/jobs/mercor-software-engineer-foundational) | Mercor | $80-$120/h | 09 Nov 2026 |
+| [Fab Safety and Emergency Response Expert (Japanese)](https://www.aiworkexpert.com/jobs/mercor-fab-safety-and-emergency-response-expert-japanese) | Mercor | $85/h | 09 Nov 2026 |
+| [AI Trainer (Mathematics & Statistics)](https://www.aiworkexpert.com/jobs/micro1-ai-trainer-mathematics-statistics) | micro1 | $60-$120/h | 09 Nov 2026 |
+| [AI Trainer (Earth & Environmental Sciences)](https://www.aiworkexpert.com/jobs/micro1-ai-trainer-earth-environmental-sciences) | micro1 | $60-$120/h | 09 Nov 2026 |
+| [AI Trainer (Physical Sciences)](https://www.aiworkexpert.com/jobs/micro1-ai-trainer-physical-sciences) | micro1 | $60-$120/h | 09 Nov 2026 |
+| [Senior AI Video Trainer (US Based)](https://www.aiworkexpert.com/jobs/micro1-senior-ai-video-trainer-us-based) | micro1 | $20-$40/h | 09 Nov 2026 |
+| [AI Trainer (Life Sciences)](https://www.aiworkexpert.com/jobs/micro1-ai-trainer-life-sciences) | micro1 | $60-$120/h | 09 Nov 2026 |
+| [Operational Law Attorney (JAG) SME](https://www.aiworkexpert.com/jobs/micro1-operational-law-attorney-jag-sme) | micro1 | $95-$170/h | 09 Nov 2026 |
+| [AI Trainer (Engineering Sciences)](https://www.aiworkexpert.com/jobs/micro1-ai-trainer-engineering-sciences) | micro1 | $60-$120/h | 09 Nov 2026 |
+| [AI Trainer (SWE)](https://www.aiworkexpert.com/jobs/micro1-ai-trainer-swe) | micro1 | $60-$120/h | 09 Nov 2026 |
+| [AI Trainer (ML Engineering)](https://www.aiworkexpert.com/jobs/micro1-ai-trainer-ml-engineering) | micro1 | $60-$120/h | 09 Nov 2026 |
+| [Data Privacy Specialist](https://www.aiworkexpert.com/jobs/micro1-data-privacy-specialist) | micro1 | $30-$60/h | 09 Nov 2026 |
+| [AI Safety & Evaluation Specialist](https://www.aiworkexpert.com/jobs/micro1-ai-safety-evaluation-specialist) | micro1 | $30-$50/h | 09 Nov 2026 |
+| [Computational Biology & Bioinformatics Expert (PhD)](https://www.aiworkexpert.com/jobs/micro1-computational-biology-bioinformatics-expert-phd-2) | micro1 | $45-$90/h | 09 Nov 2026 |
+| [Bioinformatics Scientist](https://www.aiworkexpert.com/jobs/micro1-bioinformatics-scientist) | micro1 | $45-$90/h | 09 Nov 2026 |
+| [Computational Chemistry, Structural Biology & Drug Discovery Scientist (PhD)](https://www.aiworkexpert.com/jobs/micro1-computational-chemistry-structural-biology-drug-discovery-scientist-phd) | micro1 | $45-$90/h | 09 Nov 2026 |
+| [Clinical, Microbiome & Translational Research Scientist (PhD)](https://www.aiworkexpert.com/jobs/micro1-clinical-microbiome-translational-research-scientist-phd-2) | micro1 | $45-$90/h | 09 Nov 2026 |
+| [Life Sciences Research Scientist (PhD): Wet Lab & Computational Biology](https://www.aiworkexpert.com/jobs/micro1-life-sciences-research-scientist-phd-wet-lab-computational-biology-2) | micro1 | $45-$90/h | 09 Nov 2026 |
+| [STEM Expert – Biology & Bioinformatics (PhD)](https://www.aiworkexpert.com/jobs/micro1-stem-expert-biology-bioinformatics-phd-2) | micro1 | $45-$90/h | 09 Nov 2026 |
+| [STEM Expert – Chemistry & Computational Chemistry (PhD)](https://www.aiworkexpert.com/jobs/micro1-stem-expert-chemistry-computational-chemistry-phd-2) | micro1 | $45-$90/h | 09 Nov 2026 |
+| [Electronics Assembly Quality Engineer](https://www.aiworkexpert.com/jobs/micro1-electronics-assembly-quality-engineer) | micro1 | $60-$100/h | 08 Nov 2026 |
+| [Dimensional Metrology Quality Engineer](https://www.aiworkexpert.com/jobs/micro1-dimensional-metrology-quality-engineer) | micro1 | $50-$100/h | 08 Nov 2026 |
+| [Open Source Contributor](https://www.aiworkexpert.com/jobs/micro1-open-source-contributor-2) | micro1 | $60-$120/h | 08 Nov 2026 |
 <!-- JOBS:END -->
 
 Browse every open role with filters: [aiworkexpert.com/jobs](https://www.aiworkexpert.com/jobs).
