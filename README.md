@@ -44,13 +44,31 @@ Compare two platforms side by side: [AI Work Expert comparisons](https://www.aiw
 ## Latest open roles
 
 <!-- JOBS:START -->
-**1167 open remote roles** across 4 platforms: micro1 (521), Mercor (398), Turing (246), Alignerr (2).
-The newest 50 are below. Updated 15 Nov 2026.
+**1190 open remote roles** across 4 platforms: micro1 (521), Mercor (421), Turing (246), Alignerr (2).
+The newest 50 are below. Updated 16 Nov 2026.
 
 | Role | Platform | Pay | Posted |
 |---|---|---|---|
+| [Insurance Distribution Market Expert – Paid Research Interview](https://www.aiworkexpert.com/jobs/mercor-insurance-distribution-market-expert-paid-research-interview) | Mercor | $555 | 15 Nov 2026 |
+| [Insurance Agency Group / PE Integration & Systems Lead – Paid Research Interview](https://www.aiworkexpert.com/jobs/mercor-insurance-agency-group-pe-integration-and-systems-lead-paid-research-interview) | Mercor | $450 | 15 Nov 2026 |
+| [Agency Management System Administrator / Technology Lead – Paid Research Interview](https://www.aiworkexpert.com/jobs/mercor-agency-management-system-administrator-technology-lead-paid-research-interview) | Mercor | $380 | 15 Nov 2026 |
+| [Independent Insurance Agency Owner / Principal – Paid Research Interview](https://www.aiworkexpert.com/jobs/mercor-independent-insurance-agency-owner-principal-paid-research-interview) | Mercor | $450 | 15 Nov 2026 |
+| [Insurance Agency Software Survey – 10 Minutes, Paid](https://www.aiworkexpert.com/jobs/mercor-insurance-agency-software-survey-10-minutes-paid) | Mercor | $69-$118/task | 15 Nov 2026 |
+| [Insurance Agency Service / Account Management Lead – Paid Research Interview](https://www.aiworkexpert.com/jobs/mercor-insurance-agency-service-account-management-lead-paid-research-interview) | Mercor | $380 | 15 Nov 2026 |
+| [Insurance Agency Operations & Finance Leader – Paid Research Interview](https://www.aiworkexpert.com/jobs/mercor-insurance-agency-operations-and-finance-leader-paid-research-interview) | Mercor | $380 | 15 Nov 2026 |
 | [Senior Software Engineer — Agentic Coding](https://www.aiworkexpert.com/jobs/alignerr-senior-software-engineer-agentic-coding) | Alignerr | $80-$120/h | 15 Nov 2026 |
 | [Senior Software Engineer — AI Evaluation & Benchmarks](https://www.aiworkexpert.com/jobs/alignerr-senior-software-engineer-ai-evaluation-benchmarks) | Alignerr | $80-$100/h | 15 Nov 2026 |
+| [Fab Safety and Emergency Response Expert](https://www.aiworkexpert.com/jobs/mercor-fab-safety-and-emergency-response-expert) | Mercor | $85/h | 15 Nov 2026 |
+| [Drug Discovery & Translational Science Expert](https://www.aiworkexpert.com/jobs/mercor-drug-discovery-and-translational-science-expert) | Mercor | $70-$100/h | 15 Nov 2026 |
+| [Medical Affairs & Commercial Expert](https://www.aiworkexpert.com/jobs/mercor-medical-affairs-and-commercial-expert) | Mercor | $70-$100/h | 15 Nov 2026 |
+| [CMC, Manufacturing & Quality Expert](https://www.aiworkexpert.com/jobs/mercor-cmc-manufacturing-and-quality-expert) | Mercor | $70-$100/h | 15 Nov 2026 |
+| [Pharmacovigilance & Medical Safety Expert](https://www.aiworkexpert.com/jobs/mercor-pharmacovigilance-and-medical-safety-expert) | Mercor | $70-$100/h | 15 Nov 2026 |
+| [Clinical Development & Operations Expert](https://www.aiworkexpert.com/jobs/mercor-clinical-development-and-operations-expert) | Mercor | $70-$100/h | 15 Nov 2026 |
+| [Regulatory Affairs Expert](https://www.aiworkexpert.com/jobs/mercor-regulatory-affairs-expert) | Mercor | $70-$100/h | 15 Nov 2026 |
+| [Investment Banking Expert](https://www.aiworkexpert.com/jobs/mercor-investment-banking-expert-2) | Mercor | $110/h | 15 Nov 2026 |
+| [HR Expert](https://www.aiworkexpert.com/jobs/mercor-hr-expert) | Mercor | $95/h | 15 Nov 2026 |
+| [FP&A Expert](https://www.aiworkexpert.com/jobs/mercor-fpa-expert) | Mercor | $100/h | 15 Nov 2026 |
+| [Accounting Expert](https://www.aiworkexpert.com/jobs/mercor-accounting-expert-3) | Mercor | $95/h | 15 Nov 2026 |
 | [Physics Expert (Gravity and Holography)](https://www.aiworkexpert.com/jobs/micro1-physics-expert-gravity-and-holography) | micro1 | $100-$170/h | 14 Nov 2026 |
 | [Physics Expert (Quantum Optics and Atomic Physics)](https://www.aiworkexpert.com/jobs/micro1-physics-expert-quantum-optics-and-atomic-physics) | micro1 | $100-$170/h | 14 Nov 2026 |
 | [Physics Expert (PhD / Postdoc)](https://www.aiworkexpert.com/jobs/micro1-physics-expert-phd-postdoc-2) | micro1 | $100-$170/h | 14 Nov 2026 |
@@ -81,24 +99,6 @@ The newest 50 are below. Updated 15 Nov 2026.
 | [Korean Linguistic Expert](https://www.aiworkexpert.com/jobs/mercor-korean-linguistic-expert) | Mercor | $40/h | 13 Nov 2026 |
 | [Latin American Spanish Linguistic Expert](https://www.aiworkexpert.com/jobs/mercor-latin-american-spanish-linguistic-expert) | Mercor | $40/h | 13 Nov 2026 |
 | [Spanish Linguistic Expert](https://www.aiworkexpert.com/jobs/mercor-spanish-linguistic-expert) | Mercor | $40/h | 13 Nov 2026 |
-| [Polish Linguistic Expert](https://www.aiworkexpert.com/jobs/mercor-polish-linguistic-expert) | Mercor | $40/h | 13 Nov 2026 |
-| [Brazilian Portuguese Linguistic Expert](https://www.aiworkexpert.com/jobs/mercor-brazilian-portuguese-linguistic-expert) | Mercor | $40/h | 13 Nov 2026 |
-| [European Portuguese Linguistic Expert](https://www.aiworkexpert.com/jobs/mercor-european-portuguese-linguistic-expert) | Mercor | $40/h | 13 Nov 2026 |
-| [Spanish (Venezuela) Linguistic Expert](https://www.aiworkexpert.com/jobs/mercor-spanish-venezuela-linguistic-expert) | Mercor | $40/h | 13 Nov 2026 |
-| [Spanish (United States) Linguistic Expert](https://www.aiworkexpert.com/jobs/mercor-spanish-united-states-linguistic-expert) | Mercor | $40/h | 13 Nov 2026 |
-| [Spanish (Peru) Linguistic Expert](https://www.aiworkexpert.com/jobs/mercor-spanish-peru-linguistic-expert) | Mercor | $40/h | 13 Nov 2026 |
-| [Mexican Spanish Linguistic Expert](https://www.aiworkexpert.com/jobs/mercor-mexican-spanish-linguistic-expert) | Mercor | $40/h | 13 Nov 2026 |
-| [Spanish (Colombia) Linguistic Expert](https://www.aiworkexpert.com/jobs/mercor-spanish-colombia-linguistic-expert) | Mercor | $40/h | 13 Nov 2026 |
-| [Spanish (Chile) Linguistic Expert](https://www.aiworkexpert.com/jobs/mercor-spanish-chile-linguistic-expert) | Mercor | $40/h | 13 Nov 2026 |
-| [Spanish (Argentina) Linguistic Expert](https://www.aiworkexpert.com/jobs/mercor-spanish-argentina-linguistic-expert) | Mercor | $40/h | 13 Nov 2026 |
-| [Chinese (Taiwan) Linguistic Expert](https://www.aiworkexpert.com/jobs/mercor-chinese-taiwan-linguistic-expert) | Mercor | $40/h | 13 Nov 2026 |
-| [Chinese (Singapore) Linguistic Expert](https://www.aiworkexpert.com/jobs/mercor-chinese-singapore-linguistic-expert) | Mercor | $40/h | 13 Nov 2026 |
-| [Chinese (Hong Kong SAR China) Linguistic Expert](https://www.aiworkexpert.com/jobs/mercor-chinese-hong-kong-sar-china-linguistic-expert) | Mercor | $40/h | 13 Nov 2026 |
-| [Chinese (China) Linguistic Expert](https://www.aiworkexpert.com/jobs/mercor-chinese-china-linguistic-expert) | Mercor | $40/h | 13 Nov 2026 |
-| [German Linguistic Expert](https://www.aiworkexpert.com/jobs/mercor-german-linguistic-expert) | Mercor | $40/h | 13 Nov 2026 |
-| [English (New Zealand) Linguistic Expert](https://www.aiworkexpert.com/jobs/mercor-english-new-zealand-linguistic-expert) | Mercor | $40/h | 13 Nov 2026 |
-| [Canadian English Linguistic Expert](https://www.aiworkexpert.com/jobs/mercor-canadian-english-linguistic-expert) | Mercor | $40/h | 13 Nov 2026 |
-| [Australian English Linguistic Expert](https://www.aiworkexpert.com/jobs/mercor-australian-english-linguistic-expert) | Mercor | $40/h | 13 Nov 2026 |
 <!-- JOBS:END -->
 
 Browse every open role with filters: [aiworkexpert.com/jobs](https://www.aiworkexpert.com/jobs).
