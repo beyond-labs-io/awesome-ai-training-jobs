@@ -44,61 +44,61 @@ Compare two platforms side by side: [AI Work Expert comparisons](https://www.aiw
 ## Latest open roles
 
 <!-- JOBS:START -->
-**1190 open remote roles** across 4 platforms: micro1 (521), Mercor (421), Turing (246), Alignerr (2).
-The newest 50 are below. Updated 21 Nov 2026.
+**1378 open remote roles** across 4 platforms: micro1 (589), Mercor (436), Turing (351), Alignerr (2).
+The newest 50 are below. Updated 22 Nov 2026.
 
 | Role | Platform | Pay | Posted |
 |---|---|---|---|
-| [Insurance Distribution Market Expert – Paid Research Interview](https://www.aiworkexpert.com/jobs/mercor-insurance-distribution-market-expert-paid-research-interview) | Mercor | $555 | 15 Nov 2026 |
-| [Insurance Agency Group / PE Integration & Systems Lead – Paid Research Interview](https://www.aiworkexpert.com/jobs/mercor-insurance-agency-group-pe-integration-and-systems-lead-paid-research-interview) | Mercor | $450 | 15 Nov 2026 |
-| [Agency Management System Administrator / Technology Lead – Paid Research Interview](https://www.aiworkexpert.com/jobs/mercor-agency-management-system-administrator-technology-lead-paid-research-interview) | Mercor | $380 | 15 Nov 2026 |
-| [Independent Insurance Agency Owner / Principal – Paid Research Interview](https://www.aiworkexpert.com/jobs/mercor-independent-insurance-agency-owner-principal-paid-research-interview) | Mercor | $450 | 15 Nov 2026 |
-| [Insurance Agency Software Survey – 10 Minutes, Paid](https://www.aiworkexpert.com/jobs/mercor-insurance-agency-software-survey-10-minutes-paid) | Mercor | $69-$118/task | 15 Nov 2026 |
-| [Insurance Agency Service / Account Management Lead – Paid Research Interview](https://www.aiworkexpert.com/jobs/mercor-insurance-agency-service-account-management-lead-paid-research-interview) | Mercor | $380 | 15 Nov 2026 |
-| [Insurance Agency Operations & Finance Leader – Paid Research Interview](https://www.aiworkexpert.com/jobs/mercor-insurance-agency-operations-and-finance-leader-paid-research-interview) | Mercor | $380 | 15 Nov 2026 |
-| [Senior Software Engineer — Agentic Coding](https://www.aiworkexpert.com/jobs/alignerr-senior-software-engineer-agentic-coding) | Alignerr | $80-$120/h | 15 Nov 2026 |
-| [Senior Software Engineer — AI Evaluation & Benchmarks](https://www.aiworkexpert.com/jobs/alignerr-senior-software-engineer-ai-evaluation-benchmarks) | Alignerr | $80-$100/h | 15 Nov 2026 |
-| [Fab Safety and Emergency Response Expert](https://www.aiworkexpert.com/jobs/mercor-fab-safety-and-emergency-response-expert) | Mercor | $85/h | 15 Nov 2026 |
-| [Drug Discovery & Translational Science Expert](https://www.aiworkexpert.com/jobs/mercor-drug-discovery-and-translational-science-expert) | Mercor | $70-$100/h | 15 Nov 2026 |
-| [Medical Affairs & Commercial Expert](https://www.aiworkexpert.com/jobs/mercor-medical-affairs-and-commercial-expert) | Mercor | $70-$100/h | 15 Nov 2026 |
-| [CMC, Manufacturing & Quality Expert](https://www.aiworkexpert.com/jobs/mercor-cmc-manufacturing-and-quality-expert) | Mercor | $70-$100/h | 15 Nov 2026 |
-| [Pharmacovigilance & Medical Safety Expert](https://www.aiworkexpert.com/jobs/mercor-pharmacovigilance-and-medical-safety-expert) | Mercor | $70-$100/h | 15 Nov 2026 |
-| [Clinical Development & Operations Expert](https://www.aiworkexpert.com/jobs/mercor-clinical-development-and-operations-expert) | Mercor | $70-$100/h | 15 Nov 2026 |
-| [Regulatory Affairs Expert](https://www.aiworkexpert.com/jobs/mercor-regulatory-affairs-expert) | Mercor | $70-$100/h | 15 Nov 2026 |
-| [Investment Banking Expert](https://www.aiworkexpert.com/jobs/mercor-investment-banking-expert-2) | Mercor | $110/h | 15 Nov 2026 |
-| [HR Expert](https://www.aiworkexpert.com/jobs/mercor-hr-expert) | Mercor | $95/h | 15 Nov 2026 |
-| [FP&A Expert](https://www.aiworkexpert.com/jobs/mercor-fpa-expert) | Mercor | $100/h | 15 Nov 2026 |
-| [Accounting Expert](https://www.aiworkexpert.com/jobs/mercor-accounting-expert-3) | Mercor | $95/h | 15 Nov 2026 |
-| [Physics Expert (Gravity and Holography)](https://www.aiworkexpert.com/jobs/micro1-physics-expert-gravity-and-holography) | micro1 | $100-$170/h | 14 Nov 2026 |
-| [Physics Expert (Quantum Optics and Atomic Physics)](https://www.aiworkexpert.com/jobs/micro1-physics-expert-quantum-optics-and-atomic-physics) | micro1 | $100-$170/h | 14 Nov 2026 |
-| [Physics Expert (PhD / Postdoc)](https://www.aiworkexpert.com/jobs/micro1-physics-expert-phd-postdoc-2) | micro1 | $100-$170/h | 14 Nov 2026 |
-| [Enterprise Sales Manager – AI Training Specialist](https://www.aiworkexpert.com/jobs/mercor-enterprise-sales-manager-ai-training-specialist) | Mercor | $100-$125/h | 14 Nov 2026 |
-| [Enterprise Account Executive - AI Sales Expert](https://www.aiworkexpert.com/jobs/mercor-enterprise-account-executive-ai-sales-expert) | Mercor | $85-$105/h | 14 Nov 2026 |
-| [English Language Expert (Philippines)](https://www.aiworkexpert.com/jobs/micro1-english-language-expert-philippines) | micro1 | $20-$45/h | 14 Nov 2026 |
-| [English Language Expert (Australia & New Zealand)](https://www.aiworkexpert.com/jobs/micro1-english-language-expert-australia-new-zealand) | micro1 | $15-$45/h | 14 Nov 2026 |
-| [English Language Expert (Nigeria)](https://www.aiworkexpert.com/jobs/micro1-english-language-expert-nigeria) | micro1 | $15-$45/h | 14 Nov 2026 |
-| [English Language Expert (India)](https://www.aiworkexpert.com/jobs/micro1-english-language-expert-india) | micro1 | $15-$45/h | 14 Nov 2026 |
-| [English Language Expert (South Africa)](https://www.aiworkexpert.com/jobs/micro1-english-language-expert-south-africa) | micro1 | $20-$45/h | 14 Nov 2026 |
-| [English Language Expert (Canada)](https://www.aiworkexpert.com/jobs/micro1-english-language-expert-canada) | micro1 | $20-$45/h | 14 Nov 2026 |
-| [English Language Expert (Ireland)](https://www.aiworkexpert.com/jobs/micro1-english-language-expert-ireland) | micro1 | $20-$45/h | 13 Nov 2026 |
-| [English Language Expert (United States)](https://www.aiworkexpert.com/jobs/micro1-english-language-expert-united-states) | micro1 | $20-$45/h | 13 Nov 2026 |
-| [English Language Expert (Great Britain)](https://www.aiworkexpert.com/jobs/micro1-english-language-expert-great-britain) | micro1 | $20-$45/h | 13 Nov 2026 |
-| [Ground Combat & Special Operations SME](https://www.aiworkexpert.com/jobs/micro1-ground-combat-special-operations-sme) | micro1 | $75-$130/h | 13 Nov 2026 |
-| [Hematology Physician](https://www.aiworkexpert.com/jobs/micro1-hematology-physician) | micro1 | $150-$180/h | 13 Nov 2026 |
-| [Contract Specialist](https://www.aiworkexpert.com/jobs/micro1-contract-specialist-2) | micro1 | $60-$80/h | 13 Nov 2026 |
-| [Swahili Linguistic Expert](https://www.aiworkexpert.com/jobs/mercor-swahili-linguistic-expert) | Mercor | $40/h | 13 Nov 2026 |
-| [Greek Linguistic Expert](https://www.aiworkexpert.com/jobs/mercor-greek-linguistic-expert) | Mercor | $40/h | 13 Nov 2026 |
-| [Hebrew Linguistic Expert](https://www.aiworkexpert.com/jobs/mercor-hebrew-linguistic-expert) | Mercor | $40/h | 13 Nov 2026 |
-| [Thai Linguistic Expert](https://www.aiworkexpert.com/jobs/mercor-thai-linguistic-expert) | Mercor | $40/h | 13 Nov 2026 |
-| [Indonesian Linguistic Expert](https://www.aiworkexpert.com/jobs/mercor-indonesian-linguistic-expert) | Mercor | $40/h | 13 Nov 2026 |
-| [Bangla Linguistic Expert](https://www.aiworkexpert.com/jobs/mercor-bangla-linguistic-expert) | Mercor | $40/h | 13 Nov 2026 |
-| [Hindi Linguistic Expert](https://www.aiworkexpert.com/jobs/mercor-hindi-linguistic-expert) | Mercor | $40/h | 13 Nov 2026 |
-| [Arabic Linguistic Expert](https://www.aiworkexpert.com/jobs/mercor-arabic-linguistic-expert) | Mercor | $40/h | 13 Nov 2026 |
-| [Traditional Chinese Linguistic Expert](https://www.aiworkexpert.com/jobs/mercor-traditional-chinese-linguistic-expert) | Mercor | $40/h | 13 Nov 2026 |
-| [Simplified Chinese Linguistic Expert](https://www.aiworkexpert.com/jobs/mercor-simplified-chinese-linguistic-expert) | Mercor | $40/h | 13 Nov 2026 |
-| [Korean Linguistic Expert](https://www.aiworkexpert.com/jobs/mercor-korean-linguistic-expert) | Mercor | $40/h | 13 Nov 2026 |
-| [Latin American Spanish Linguistic Expert](https://www.aiworkexpert.com/jobs/mercor-latin-american-spanish-linguistic-expert) | Mercor | $40/h | 13 Nov 2026 |
-| [Spanish Linguistic Expert](https://www.aiworkexpert.com/jobs/mercor-spanish-linguistic-expert) | Mercor | $40/h | 13 Nov 2026 |
+| [Robotics Data Collection Specialist](https://www.aiworkexpert.com/jobs/micro1-robotics-data-collection-specialist) | micro1 | $20-$40/h | 21 Nov 2026 |
+| [Generalist (Canada)](https://www.aiworkexpert.com/jobs/micro1-generalist-canada) | micro1 | $30-$49/h | 21 Nov 2026 |
+| [Generalist (United Kingdom)](https://www.aiworkexpert.com/jobs/micro1-generalist-united-kingdom) | micro1 | $30-$49/h | 21 Nov 2026 |
+| [Generalist (Germany)](https://www.aiworkexpert.com/jobs/micro1-generalist-germany) | micro1 | $30-$49/h | 21 Nov 2026 |
+| [Generalist (Australia)](https://www.aiworkexpert.com/jobs/micro1-generalist-australia) | micro1 | $30-$49/h | 21 Nov 2026 |
+| [Generalist (Brazil)](https://www.aiworkexpert.com/jobs/micro1-generalist-brazil) | micro1 | $30-$49/h | 21 Nov 2026 |
+| [Generalist (France)](https://www.aiworkexpert.com/jobs/micro1-generalist-france) | micro1 | $30-$49/h | 21 Nov 2026 |
+| [Generalist (Japan)](https://www.aiworkexpert.com/jobs/micro1-generalist-japan) | micro1 | $30-$49/h | 21 Nov 2026 |
+| [Generalist (South Korea)](https://www.aiworkexpert.com/jobs/micro1-generalist-south-korea) | micro1 | $30-$49/h | 21 Nov 2026 |
+| [Medical Doctor / Physician (Mexico Only)](https://www.aiworkexpert.com/jobs/micro1-medical-doctor-physician-mexico-only) | micro1 | $110/h | 20 Nov 2026 |
+| [Philosophical Logic Annotator](https://www.aiworkexpert.com/jobs/turing-philosophical-logic-annotator) | Turing | Not stated | 20 Nov 2026 |
+| [Biology & LifeSciences Expert - US](https://www.aiworkexpert.com/jobs/turing-biology-and-lifesciences-expert-us) | Turing | Not stated | 20 Nov 2026 |
+| [GPU Programming Software Engineer](https://www.aiworkexpert.com/jobs/micro1-gpu-programming-software-engineer) | micro1 | $50-$120/h | 20 Nov 2026 |
+| [CUDA Engineering Expert](https://www.aiworkexpert.com/jobs/micro1-cuda-engineering-expert) | micro1 | $60-$120/h | 20 Nov 2026 |
+| [GoPro Video Contributor – Appliance & Hardware Troubleshooting](https://www.aiworkexpert.com/jobs/turing-gopro-video-contributor-appliance-and-hardware-troubleshooting) | Turing | Not stated | 20 Nov 2026 |
+| [Music Teacher](https://www.aiworkexpert.com/jobs/micro1-music-teacher) | micro1 | $15-$45/h | 20 Nov 2026 |
+| [Data Engineer + Java](https://www.aiworkexpert.com/jobs/turing-data-engineer-plus-java) | Turing | Not stated | 20 Nov 2026 |
+| [Cybersecurity Expert](https://www.aiworkexpert.com/jobs/turing-cybersecurity-expert) | Turing | Not stated | 20 Nov 2026 |
+| [Senior Cybersecurity Expert](https://www.aiworkexpert.com/jobs/turing-senior-cybersecurity-expert) | Turing | Not stated | 20 Nov 2026 |
+| [Telecommunications Customer Support Specialist](https://www.aiworkexpert.com/jobs/micro1-telecommunications-customer-support-specialist) | micro1 | $18-$28/h | 20 Nov 2026 |
+| [Retail Customer Support Specialist](https://www.aiworkexpert.com/jobs/micro1-retail-customer-support-specialist) | micro1 | $18-$28/h | 20 Nov 2026 |
+| [Airline Customer Service Specialist](https://www.aiworkexpert.com/jobs/micro1-airline-customer-service-specialist) | micro1 | $18-$28/h | 20 Nov 2026 |
+| [Senior Hematologist-Oncologist](https://www.aiworkexpert.com/jobs/micro1-senior-hematologist-oncologist) | micro1 | $220-$250/h | 19 Nov 2026 |
+| [Hematology/Oncology Physician](https://www.aiworkexpert.com/jobs/micro1-hematology-oncology-physician-2) | micro1 | $180-$220/h | 19 Nov 2026 |
+| [Principal Cybersecurity Expert](https://www.aiworkexpert.com/jobs/turing-principal-cybersecurity-expert) | Turing | Not stated | 19 Nov 2026 |
+| [AI Assistant Raters - US Based](https://www.aiworkexpert.com/jobs/turing-ai-assistant-raters-us-based) | Turing | Not stated | 19 Nov 2026 |
+| [Practising Lawyer (Korea, Spain, Germany, France, Japan) — AI Legal Writing Survey](https://www.aiworkexpert.com/jobs/mercor-practising-lawyer-korea-spain-germany-france-japan-ai-legal-writing-survey) | Mercor | $120-$150/h | 19 Nov 2026 |
+| [Social Work & Community Services Professional (Domain Expert)](https://www.aiworkexpert.com/jobs/micro1-social-work-and-community-services-professional-domain-expert) | micro1 | $20-$80/h | 19 Nov 2026 |
+| [Creative Professional (Domain Expert)](https://www.aiworkexpert.com/jobs/micro1-creative-professional-domain-expert) | micro1 | $20-$80/h | 19 Nov 2026 |
+| [Teacher (US/CAN based)](https://www.aiworkexpert.com/jobs/micro1-teacher-us-can-based) | micro1 | $20-$80/h | 19 Nov 2026 |
+| [Freelance Technical Recruiter](https://www.aiworkexpert.com/jobs/turing-freelance-technical-recruiter) | Turing | Not stated | 18 Nov 2026 |
+| [Video Annotator](https://www.aiworkexpert.com/jobs/turing-video-annotator-2) | Turing | Not stated | 18 Nov 2026 |
+| [Travel Operations Specialist](https://www.aiworkexpert.com/jobs/micro1-travel-operations-specialist) | micro1 | $20-$44/h | 18 Nov 2026 |
+| [Domain Expert – Python](https://www.aiworkexpert.com/jobs/turing-domain-expert-python-2) | Turing | Not stated | 18 Nov 2026 |
+| [Domain Expert – Python](https://www.aiworkexpert.com/jobs/turing-domain-expert-python-3) | Turing | Not stated | 18 Nov 2026 |
+| [Senior Software Engineer - Python and JavaScript](https://www.aiworkexpert.com/jobs/turing-senior-software-engineer-python-and-javascript-2) | Turing | Not stated | 18 Nov 2026 |
+| [Legal Expert (Human Rights Law)](https://www.aiworkexpert.com/jobs/micro1-legal-expert-human-rights-law) | micro1 | $80-$180/h | 18 Nov 2026 |
+| [Legal Expert (Estate Planning Law)](https://www.aiworkexpert.com/jobs/micro1-legal-expert-estate-planning-law) | micro1 | $80-$130/h | 18 Nov 2026 |
+| [Legal Expert (Copyright Law)](https://www.aiworkexpert.com/jobs/micro1-legal-expert-copyright-law) | micro1 | $80-$130/h | 18 Nov 2026 |
+| [Legal Expert (Constitutional)](https://www.aiworkexpert.com/jobs/micro1-legal-expert-constitutional) | micro1 | $80-$130/h | 18 Nov 2026 |
+| [Voice Actor: CX Agent Voice Cloning (Dutch)](https://www.aiworkexpert.com/jobs/mercor-voice-actor-cx-agent-voice-cloning-dutch) | Mercor | $50/h | 18 Nov 2026 |
+| [Customer Experience (CX) Specialist](https://www.aiworkexpert.com/jobs/micro1-customer-experience-cx-specialist) | micro1 | $20-$44/h | 18 Nov 2026 |
+| [Professional Shopper](https://www.aiworkexpert.com/jobs/micro1-professional-shopper) | micro1 | $20-$44/h | 18 Nov 2026 |
+| [Category Manager](https://www.aiworkexpert.com/jobs/micro1-category-manager) | micro1 | $20-$44/h | 18 Nov 2026 |
+| [Professional Photographer – Sony A1 II (Remote, Project-Based)](https://www.aiworkexpert.com/jobs/micro1-professional-photographer-sony-a1-ii-remote-project-based) | micro1 | Not stated | 17 Nov 2026 |
+| [Scientific Computing / Research Engineering Expert — Engineering](https://www.aiworkexpert.com/jobs/turing-scientific-computing-research-engineering-expert-engineering-2) | Turing | Not stated | 17 Nov 2026 |
+| [Healthcare Payer Landscape & Reimbursement Analyst (RCM)](https://www.aiworkexpert.com/jobs/mercor-healthcare-payer-landscape-and-reimbursement-analyst-rcm) | Mercor | $95/h | 17 Nov 2026 |
+| [Clinical Documentation & Medical Necessity Reviewer (RN/LPN)](https://www.aiworkexpert.com/jobs/mercor-clinical-documentation-and-medical-necessity-reviewer-rn-lpn) | Mercor | $68/h | 17 Nov 2026 |
+| [BA - Generalist (English + Creative data annotation) - II](https://www.aiworkexpert.com/jobs/turing-ba-generalist-english-plus-creative-data-annotation-ii) | Turing | Not stated | 17 Nov 2026 |
+| [Visual Content Evaluator](https://www.aiworkexpert.com/jobs/micro1-visual-content-evaluator-2) | micro1 | $21-$45/h | 17 Nov 2026 |
 <!-- JOBS:END -->
 
 Browse every open role with filters: [aiworkexpert.com/jobs](https://www.aiworkexpert.com/jobs).
